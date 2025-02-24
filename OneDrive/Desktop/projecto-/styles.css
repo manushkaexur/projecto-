@@ -1,0 +1,21 @@
+.image{
+    height:450px;
+     
+}
+ body{
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+ }
+ .container{
+    background-color: rgb(189, 194, 199);
+   display: none;
+    margin: 20px 500px;
+    padding: 0px 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+ }
